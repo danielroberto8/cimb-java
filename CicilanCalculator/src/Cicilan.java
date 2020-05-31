@@ -3,7 +3,7 @@ import java.text.DecimalFormatSymbols;
 import java.util.Scanner;
 
 public class Cicilan {
-
+    // Weekend Task
     static double bunga;
     static int durasi;
     static int hargaAwal;
