@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Cicilan {
     // Weekend Task
+    static String wow;
     static double bunga;
     static int durasi;
     static int hargaAwal;
